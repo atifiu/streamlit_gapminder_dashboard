@@ -8,4 +8,8 @@ plotly-express==0.4.1
 raceplotly==0.1.6
 streamlit==1.14.0
 streamlit-aggrid==0.3.3
+<<<<<<< HEAD
 streamlit-option-menu==0.3.2
+=======
+streamlit-option-menu==0.3.2
+>>>>>>> 2077c1d3f82065414ac506cbc74fea2edb19aca0
