@@ -1,0 +1,8 @@
+streamlit_option_menu
+PIL
+cv2
+st_aggrid
+plotly.express
+raceplotly.plots
+common
+numpy
