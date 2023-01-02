@@ -69,8 +69,8 @@ with st.sidebar:
     )
 
 
-logo = Image.open(r'E:\python\dataVisualizations\streamlit_customizedmemu_app\images\Insights_Bees_logo.png')
-profile = Image.open(r'E:\python\dataVisualizations\streamlit_customizedmemu_app\images\Insights_Bees_logo.png')
+logo = Image.open(r"images/Insights_Bees_logo.png")
+profile = Image.open(r"images/Insights_Bees_logo.png")
 
 if choose == "GapMinder Data":
     
