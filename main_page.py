@@ -12,6 +12,8 @@ import io
 from common import set_page_container_style
 import numpy as np
 from raceplotly.plots import barplot
+import os
+print(os.getcwd())
 
 
 
@@ -51,8 +53,8 @@ with open('style.css') as f:
 
 #Add a logo (optional) in the sidebar
 #logo = Image.open(r'E:\python\dataVisualizations\streamlit_customizedmemu_app\images\Insights_Bees_logo.png')
-logo = Image.open(r"images\Insights_Bees_logo.png")
-profile = Image.open(r"images\Insights_Bees_logo.png")
+logo = Image.open(r"images/Insights_Bees_logo.png")
+profile = Image.open(r"images/Insights_Bees_logo.png")
 
 with st.sidebar:
     choose = option_menu("App Gallery", [ "GapMinder Data"],
